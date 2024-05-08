@@ -1,7 +1,7 @@
 
 # Golden metrics (Traffic, Latency, Errors, Saturation)
 
-## Latency example
+## Latency & Traffic example
 Example for Latency 
 * split views successful / failed 
 
