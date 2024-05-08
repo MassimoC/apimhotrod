@@ -20,3 +20,11 @@ Errors thrown by the APIM gateway
 Drill down into ClientConnectionFailures
 
 ![](imgs/ClientConnectionFailure.jpg)
+
+## Saturation
+
+The Capacity metric is the most used to understand how "full" is our instances.
+
+Another view on the capacity is available on the "Diagnose and solve problems" section : Capacity by role
+
+![](imgs/CapacityByRole.jpg)
