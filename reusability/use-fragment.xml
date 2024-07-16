@@ -1,0 +1,11 @@
+<policies
+    <inbound>
+        <base />
+        <set-variable name="jwtAudValue1" value="https://api.example.com" />
+        <set-variable name="jwtAudValue2" value="https://api.example.net" />
+        <set-variable name="jwtRoleValue1" value="Admin" />
+        <set-variable name="jwtRoleValue2" value="User" />
+
+        <include fragment="validate-jwt-fragment" />
+    </inbound>
+</policies>
