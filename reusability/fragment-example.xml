@@ -1,0 +1,15 @@
+<fragment>
+    <validate-jwt header-name="Authorization" failed-validation-httpcode="401" failed-validation-error-message="Unauthorized. Access token is missing or invalid.">
+        <openid-config url="https://login.microsoftonline.com/{TenantId here}/.well-known/openid-configuration" />
+        <required-claims>
+            <claim name="aud" match="any">
+                <value>@((string)context.Variables["jwtAudValue1"])</value>
+                <value>@((string)context.Variables["jwtAudValue2"])</value>
+            </claim>
+            <claim name="roles" match="any">
+                <value>@((string)context.Variables["jwtRoleValue1"])</value>
+                <value>@((string)context.Variables["jwtRoleValue2"])</value>
+            </claim>
+        </required-claims>
+    </validate-jwt>
+</fragment>
