@@ -1,9 +1,15 @@
 # By the community, for the community
 
+![](imgs/logosmall.png)
+
 ## APIM Hotrod
 
 * APIM Hotrod website : https://apimhotrod.cloud/
-* APIM Hotord youtube channel : https://youtube.com/@apimhotrod
+* APIM Hotrod youtube channel : https://youtube.com/@apimhotrod
+
+Watch the Season 1 on [YouTube](https://youtube.com/@apimhotrod)
+
+![](imgs/season1.png)
 
 
 ## Events
