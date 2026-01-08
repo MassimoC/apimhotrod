@@ -12,7 +12,7 @@ the MCP server perform a downstream call by using ```baseURL + operation``` inst
 <img width="3427" height="1073" alt="image" src="https://github.com/user-attachments/assets/74362c7c-226e-402d-ad1a-df5c16b5c3d1" />
 
 
-# Step 3 - Suggested solution
+# Step 3 - Suggested solution (not working)
 
 When we tried the suggested solution the MCP server does not start.
 
