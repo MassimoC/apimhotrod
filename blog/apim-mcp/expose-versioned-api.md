@@ -18,7 +18,7 @@ When we tried the suggested solution the MCP server does not start.
 
 <img width="3360" height="1122" alt="image" src="https://github.com/user-attachments/assets/a7ef60a5-25f6-4aaf-95d4-07c8866099c9" />
 
-We tried to setup a different backend service using multiple approaches (specify the url, using backend id, etc...) but no way to connect to the MCP server with a policy different than <base/>
+We tried to setup a different backend service using multiple approaches (specify the url, using backend id, etc...) but no way to connect to the MCP server with a policy different than ```<base/>```
 
 # Step 4 - (not good) Workaround
 
