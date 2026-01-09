@@ -29,3 +29,12 @@ Clearly not a future proof solution
 
 
 Looking forward for a better way to get this scenario working.
+
+# UPDATE - it works fine with V2 tiers
+
+This is a **known issue in Developer and v1 SKU **instances.
+The fix has already been rolled out in v1 SKUs enrolled in the AI Gateway Early update group.
+
+Below a test with BasicV2
+
+<img width="3014" height="736" alt="image" src="https://github.com/user-attachments/assets/a6a72d86-2020-4d88-895f-246df74e6804" />
